@@ -1,0 +1,14 @@
+---
+---
+
+{% if link %}
+  <a href="{{link}}">
+    <b>{{ entry.btitle }}</b>
+  </a>
+  <br>
+  {{ reference | replace_first: 'Jackson, N.', '<b>Jackson, N.</b>' }}
+{% else %}
+    <b>{{ entry.btitle }}</b>
+    <br>
+    {{ reference | replace_first: 'Jackson, N.', '<b>Jackson, N.</b>' }}
+{% endif %}
