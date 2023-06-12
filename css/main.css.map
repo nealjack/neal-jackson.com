@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/_icon.scss"
+	],
+	"sourcesContent": [
+		"@charset \"utf-8\";\n\n\n// Our variables\n\n$white-color:      #FFFFFF;\n\n$grey-color:       #828282;\n$grey-color-light: lighten($grey-color, 40%);\n$grey-color-dark:  darken($grey-color, 25%);\n\n\n// Import partials from `sass_dir` (defaults to `_sass`)\n@import\n        \"icon\"\n;\n",
+		"/**\n * Icons\n */\n.icon {\n    > svg {\n        display: inline-block;\n        width: 20px;\n        height: 20px;\n        vertical-align: middle;\n\n        path {\n            fill: $white-color;\n        }\n    }\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,YAEG;AACH,AACI,KADC,GACC,GAAG,CAAC,EACF,OAAO,EAAE,YAAY,EACrB,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,EACZ,cAAc,EAAE,MAAM,GAKzB;;AAVL,AAOQ,KAPH,GACC,GAAG,CAMD,IAAI,CAAC,EACD,IAAI,EDNG,OAAO,GCOjB"
+}
