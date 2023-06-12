@@ -4,7 +4,7 @@ title: About
 ---
 <div class="mdl-cell-hide-tablet mdl-cell--4-col" markdown="1">
   <br>
-  <img style="width:95%" src="./static/me2.jpg">
+  <img style="width:95%" src="./static/me.jpg">
 </div>
 <div class="mdl-cell mdl-cell--6-col" markdown="1">
 ### Neal Jackson, PhD
@@ -47,7 +47,7 @@ title: About
 <div class="mdl-cell mdl-cell--6-col" markdown="1">
 ### News
  - **12/2022:** I graduated! My dissertation can be found [here](publications/nsj-thesis.pdf)
- - **08/2022:** I married the beautiful and goofy [Taryn Farber](https://www.linkedin.com/in/taryn-farber-b2227237)!
+ - **08/2022:** I married the beautiful and goofy [Taryn Farber](tarynfarber.art)!
  - **09/2021:** I moved back to Ann Arbor, Michigan
  - **04/2020:** Won the Outstanding Graduate Student Instructor Award for teaching EECS149 in Fall 2019
  - **02/2020:** I got a dog! Her name is Bella and she's wonderful
